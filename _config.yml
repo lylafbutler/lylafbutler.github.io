@@ -50,22 +50,22 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: lfb1@williams.edu
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+#  facebook: deanattali
+  github: lylafbutler
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+  whatsapp: (929) 248-2323
 #  medium: yourname
-#  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  reddit: AstroQueen104
+ letterboxd: LylatheGreat
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
+ instagram: lylaforest
+  spotify: smiley lylie
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
