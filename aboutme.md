@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: about me
+subtitle: if you are a dreamer, a wisher, a liar,
+a hoper, a pray-er, a magic-bean-buyer,
+if you're a pretender, come sit by my fire...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+hey! it's me, lyla. welcome to my website!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+i'm so glad you're here. stick around awhile!
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### my poetry
+
+you can find my poetry on the internet! i will link it here soon. for now, please enjoy [this video].[(https://youtu.be/qFfnlYbFEiE?si=sKoEF9oBQQ-f7f6T) and it will answer all your questions.
