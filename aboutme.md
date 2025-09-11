@@ -1,9 +1,7 @@
 ---
 layout: page
 title: about me
-subtitle: if you are a dreamer, a wisher, a liar,
-a hoper, a pray-er, a magic-bean-buyer,
-if you're a pretender, come sit by my fire...
+subtitle: if you are a dreamer, a wisher, a liar, a hoper, a pray-er, a magic-bean-buyer, if youre a pretender, come sit by my fire...
 ---
 
 hey! it's me, lyla. welcome to my website!
