@@ -10,8 +10,7 @@ mathjax: true
 author: Lyla Butler
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+hey there! my name is lyla. i'm so glad you made it here to my little corner of the internet. i'm so excited about taking electronic textiles--so far we have essentially been building our own course websites, which is a really exciting and gratifying process. i feel so much freedom! it's amazing to be able to edit code and see the changes appear before my own eyes. learning to write & edit simple code is something i've wanted to do for years, but have never been able to do. thanks so much for checking out my page and stay tuned for updates!
 
 **Here is some bold text**
 
