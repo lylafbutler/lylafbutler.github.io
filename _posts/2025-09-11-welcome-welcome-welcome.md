@@ -13,6 +13,10 @@ author: Lyla Butler
 **hey there!**
 my name is lyla. i'm so glad you made it here to my little corner of the internet.
 
+i'm a sophomore (class of 2028) at williams college. i've had quite a bit of sewing experience--i used to take costume production classes in middle school and a bit in high school. i love to sew and create my own clothes and projects. i have zero programming experience and can't wait to explore the world of coding. in this class, i hope to gain some coding experience and create a project that i'm really proud of. one fun fact about me is that my favorite flower is the hydrangea.
+
+
+
 here's a photo of me to remind you of what i look like. if we haven't met yet, now you'll be able to find me when we get coffee! (are you free tomorrow?)
 
 ![Lyla](https://github.com/lylafbutler/lylafbutler.github.io/blob/115a2ffa12b3b2caefdf49fdb257d0f17bc2fa07/assets/img/lylaphoto.jpeg)
