@@ -19,5 +19,5 @@ my favorite thing to do in life is make things! i have always wanted to try my h
 
 here's a photo of me to remind you of what i look like. if we haven't met yet, now you'll be able to find me when we get coffee! (are you free tomorrow?)
 
-(assets/img/lylaphoto.jpeg)
+![lylaphoto.jpeg](https://beautifuljekyll.com/assets/img/lylaphoto.jpeg)
 
