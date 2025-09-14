@@ -18,4 +18,4 @@ thanks so much for checking out my page and stay tuned for updates!
 
 ### my poetry
 
-i love writing poetry--it's one of my great passions! i am very grateful to have been published in a few magazines and i even published a short book at the beginning of high school, which i will link it here soon. for now, please enjoy [this video](https://youtu.be/qFfnlYbFEiE?si=sKoEF9oBQQ-f7f6T) and it will answer all your questions.
+i love writing poetry--it's one of my great passions! i am very grateful to have been published in a few magazines, and i even published a short book at the beginning of high school (i will link it here soon!). for now, please enjoy [this video](https://youtu.be/qFfnlYbFEiE?si=sKoEF9oBQQ-f7f6T) and it will answer all your questions.
