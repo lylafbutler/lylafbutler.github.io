@@ -19,6 +19,5 @@ i'm a sophomore (class of 2028) at williams college. i've had quite a bit of sew
 
 here's a photo of me to remind you of what i look like. if we haven't met yet, now you'll be able to find me when we get coffee! (are you free tomorrow?)
 
-![Lyla](https://github.com/lylafbutler/lylafbutler.github.io/blob/115a2ffa12b3b2caefdf49fdb257d0f17bc2fa07/assets/img/lylaphoto.jpeg)
-
+![Lyla](https://beautifuljekyll.com/assets/img/lylaphoto.jpg)
 
