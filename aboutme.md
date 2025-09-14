@@ -18,4 +18,4 @@ thanks so much for checking out my page and stay tuned for updates!
 
 ### my poetry
 
-you can find my poetry on the internet! i will link it here soon. for now, please enjoy [this video.](https://youtu.be/qFfnlYbFEiE?si=sKoEF9oBQQ-f7f6T) and it will answer all your questions.
+you can find my poetry on the internet! i will link it here soon. for now, please enjoy [this video](https://youtu.be/qFfnlYbFEiE?si=sKoEF9oBQQ-f7f6T) and it will answer all your questions.
