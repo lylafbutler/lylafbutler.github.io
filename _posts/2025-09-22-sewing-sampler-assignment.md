@@ -15,6 +15,8 @@ i hope this blog post finds you well. i am very excited to share my sewing sampl
 one tip i have for my past self is to use an embroidery hoop earlier! i was using one by the end of the project and it instantly made my life so much easier. additionally, i'd tell my past self not to freak out when something doesn't go right. i could have saved myself a lot of anxiety if i had just slowed down and really tried to figure out what the problem was in times when things weren't exactly going my way.
 in a kind of lovely way, you can also apply this philosophy to coding! i'll try and keep this advice in mind as in venture into the world of programming more and more in this class.
 
-![back](https://lylafbutler.github.io/assets/img/back.heic)
 
-![front](https://lylafbutler.github.io/assets/img/front.heic)
+![front](https://lylafbutler.github.io/assets/img/front.jpg)
+
+![back](https://lylafbutler.github.io/assets/img/back.jpg)
+
