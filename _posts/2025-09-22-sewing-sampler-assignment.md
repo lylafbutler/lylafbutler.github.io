@@ -16,7 +16,7 @@ one tip i have for my past self is to use an embroidery hoop earlier! i was usin
 in a kind of lovely way, you can also apply this philosophy to coding! i'll try and keep this advice in mind as in venture into the world of programming more and more in this class.
 
 
-![front](https://lylafbutler.github.io/assets/img/front.jpeg)
+![front](lylafbutler.github.io/assets/img/front.jpeg)
 
 ![back](https://lylafbutler.github.io/assets/img/back.jpeg)
 
