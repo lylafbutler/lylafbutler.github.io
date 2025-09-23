@@ -18,5 +18,5 @@ in a kind of lovely way, you can also apply this philosophy to coding! i'll try 
 
 ![front](lylafbutler.github.io/assets/img/front.jpeg)
 
-![back](https://lylafbutler.github.io/assets/img/back.jpeg)
+![back](lylafbutler.github.io/assets/img/back.jpeg)
 
