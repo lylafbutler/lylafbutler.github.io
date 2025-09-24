@@ -9,6 +9,7 @@ author: Lyla Butler
 ---
 
 **this is my "sweater weather" assignment post!**
+
 i really liked this assigment because it made me feel like a real programmer.
 as a kid, i was a _huge_ fan of choose-your-own-adventure books, and this felt a little bit like creating one of those.
 i'd love for you to try out my program, but unfortunately, it's only for professor howley's eyes. sorry to disappoint!
