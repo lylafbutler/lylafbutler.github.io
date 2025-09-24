@@ -2,9 +2,7 @@
 layout: post
 title: welcome welcome welcome
 subtitle: so glad you made it here
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [hello_world]
 comments: true
 mathjax: true
 author: Lyla Butler
