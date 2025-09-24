@@ -17,4 +17,4 @@ the program, using c, practices conditional statements. it will output a stateme
 a tip i'd tell my future self is to be careful with else statements. because else statements are catch-all, my program outputted the else statement i had written much more frequently than i had expected it to! it took a little experimenting to figure out when the program would and wouldn't print my else statement.
 because you can't try it out on your own, here---a little screenshot to keep you satiated. i hope you enjoy!
 
-![Lyla](https://lylafbutler.github.io/assets/img/lylaphoto.jpeg)
+![sweaterweather](https://lylafbutler.github.io/assets/img/sweaterweather.png)
