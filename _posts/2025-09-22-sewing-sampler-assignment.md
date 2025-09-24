@@ -2,9 +2,7 @@
 layout: post
 title: sewing sampler assignment
 subtitle: with williams colors!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [sewing_sampler]
 comments: true
 mathjax: true
 author: Lyla Butler
