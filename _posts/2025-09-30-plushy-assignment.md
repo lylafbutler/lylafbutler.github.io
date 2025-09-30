@@ -2,19 +2,17 @@
 layout: post
 title: circuit plushy assignment
 subtitle: look how cute he is!
-tags: [circuit]
+tags: [circuit, plushy, little_green_guy]
 comments: true
 mathjax: true
 author: Lyla Butler
 ---
 
-**hey there!**
-my name is lyla. i'm so glad you made it here to my little corner of the internet.
+**this is my circuit plushy assignment!**
+here is the final product from our circuit plushy assignment. this process was miles more challenging than i thought it might be at first glance. however, despite the difficulty level of working wth circuitry and conductive thread, i ended up with a product that really works that i'm truly proud of. to me, he kind of looks like a weird little christmas tree creature.
 
-i'm a sophomore (class of 2028) at williams college. i've had quite a bit of sewing experience--i used to take costume production classes in middle school and a bit in high school. i love to sew and create my own clothes and projects. i have zero programming experience and can't wait to explore the world of coding. in this class, i hope to gain some coding experience and create a project that i'm really proud of. one fun fact about me is that my favorite ice cream flavor is ben & jerry's "the tonight dough."
+one tip i would tell myself for the future of ths project would be to make sure i keep threads short when knotting them, and also having a lot of patience with myself. many times i doubted my competence, but here i am, on the other side of the project with an end result i love!
 
-
-
-here's a photo of me to remind you of what i look like. if we haven't met yet, now you'll be able to find me when we get coffee! (are you free tomorrow?)
+here are some photos of my circuit plushy for you to enjoy.
 
 ![Lyla](https://lylafbutler.github.io/assets/img/lylaphoto.jpeg)
