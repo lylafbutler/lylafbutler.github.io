@@ -15,15 +15,15 @@ one tip i would tell others attempting this project for the first time would be 
 
 here are some photos of my circuit plushy for you to enjoy.
 this is my paper protoype for the plushy, helping me to plan out what i created!
-![paperproto](https://lylafbutler.github.io/assets/img/paperproto.jpg)
+![paperproto](https://lylafbutler.github.io/assets/img/paperproto.png)
 
 this is my prototype using alligator clips to test that my design worked.
-![prototype](https://lylafbutler.github.io/assets/img/prototype.jpg)
+![prototype](https://lylafbutler.github.io/assets/img/prototype.png)
 
 here's the front of the finished plushy product. you can see that i'm pressing the button with the switch set to "on", so the leds turn on.
-![fronttree](https://lylafbutler.github.io/assets/img/fronttree.jpg)
+![fronttree](https://lylafbutler.github.io/assets/img/fronttree.png)
 
 and here's the back!
-![backtree](https://lylafbutler.github.io/assets/img/backtree.jpg)
+![backtree](https://lylafbutler.github.io/assets/img/backtree.png)
 
 thanks for reading about my circuit plushy! stay tuned for more...
