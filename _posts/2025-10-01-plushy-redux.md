@@ -16,4 +16,4 @@ one tip i have for my past self is to start working on coding earlier! it always
 
 here's a screenshot of my code!
 
-https://lylafbutler.github.io/assets/img/plushyredux.png
+![plushyredux](https://lylafbutler.github.io/assets/img/plushyredux.png)
