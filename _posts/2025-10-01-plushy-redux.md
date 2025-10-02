@@ -9,6 +9,7 @@ author: Lyla Butler
 ---
 
 **hi there!**
+
 i hope this blog post finds you well. here is my plushy redux assignment! 
 the program determines whether or not the LEDs in a plushy will turn on based on inputs for variables that represent "button" and "switch."
 
