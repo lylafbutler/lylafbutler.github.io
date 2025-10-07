@@ -18,11 +18,11 @@ here is the alligator prototype stage of the project. i used a button and a swit
 ![prototypestar](https://lylafbutler.github.io/assets/img/prototype2.jpg)
 
 here's my paper prototype.
-![paperstar](https://lylafbutler.github.io/assets/img/paperproto2.heic)
+![paperstar](https://lylafbutler.github.io/assets/img/paperproto2.jpg)
 
 here's the front of the finished product...
-![backstar](https://lylafbutler.github.io/assets/img/starryfront.heic)
+![backstar](https://lylafbutler.github.io/assets/img/starryfront.jpg)
 
 and here's the back! thanks so much for coming along with me on this journey.
-![backstar](https://lylafbutler.github.io/assets/img/starryback.heic)
+![backstar](https://lylafbutler.github.io/assets/img/starryback.jpg)
 
