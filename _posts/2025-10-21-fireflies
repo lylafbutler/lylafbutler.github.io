@@ -1,0 +1,21 @@
+---
+layout: post
+title: separate sparklies!
+subtitle: firefly LEDs!
+tags: [firefly, LEDs, arduino]
+comments: true
+mathjax: true
+author: Lyla Butler
+---
+
+**hi there!**
+
+for this assignment, we each wrote programs that simulated the flashing patterns of three separate types of firelies using the lilypad arduino.
+it was really exciting to work out our first arduino assignment using the lilypad, but also extremely challenging.
+
+a tip i'd have for myself attempting this assignment is to slow down. i quickly got caught up in the thick of my code, wondering why things didn't work. but if i had just slowed down and planned things out in a more linear way, i think the whole process would have gone much smoother.
+
+i am feeling increasingly more and more like a programmer, especially after this assignment!
+here's a photo of my program's output for reference.
+
+![ledcode](https://lylafbutler.github.io/assets/img/ledcode.png)
