@@ -11,11 +11,15 @@ author: Lyla Butler
 **hi there!**
 
 for this assignment, we each wrote programs that simulated the flashing patterns of three separate types of firelies using the lilypad arduino.
-it was really exciting to work out our first arduino assignment using the lilypad, but also extremely challenging.
+it was really exciting to work out our first arduino assignment using the lilypad, but also extremely challenging. a tip i'd have for myself attempting this assignment is to slow down. i quickly got caught up in the thick of my code, wondering why things didn't work. but if i had just slowed down and planned things out in a more linear way, i think the whole process would have gone much smoother.
+ultimately, although this assignment did take a lot of time and frustration, i'm feeling really proud of myself for completing this assignment and really putting in the time to finish it in a way i was proud of.
 
-a tip i'd have for myself attempting this assignment is to slow down. i quickly got caught up in the thick of my code, wondering why things didn't work. but if i had just slowed down and planned things out in a more linear way, i think the whole process would have gone much smoother.
+here are photos of my working LEDs, for reference!
+here's the photo for the flash bulb firefly.
+![ledcode](https://lylafbutler.github.io/assets/img/ledcode.png)
 
-i am feeling increasingly more and more like a programmer, especially after this assignment!
-here's a photo of my program's output for reference.
+here is the big dipper firefly.
+![ledcode](https://lylafbutler.github.io/assets/img/ledcode.png)
 
+and here is the synchronous firefly!
 ![ledcode](https://lylafbutler.github.io/assets/img/ledcode.png)
