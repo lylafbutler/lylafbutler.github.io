@@ -1,20 +1,19 @@
 ---
 layout: post
-title: red, green, blue...
-subtitle: coding loops!
-tags: [red_green_blue, LEDs, loop]
+title: simultaneous sparklies!
+subtitle: all together now
+tags: [fireflies, sparklies, LEDs]
 comments: true
 mathjax: true
 author: Lyla Butler
 ---
 
-**happy wednesday!**
+**hey...happy monday!**
 
-for this assignment, we each wrote programs that simulated three LEDs turning on and which colors they would be. the color, number of leds that turned on, and the frequency of the LEDs turning on were all defined by separate variables.
+for this assignment, we combined the separate state-based programs we had written to simulate the flashing of different kinds of fireflies. this resulted in a program that created all three flashing patterns at the same time!
 
-a tip i'd have for myself attempting this assignment is to slow down. i quickly got caught up in the thick of my code, wondering why things didn't work. but if i had just slowed down and planned things out in a more linear way, i think the whole process would have gone much smoother.
+a tip i'd have for myself attempting this assignment is to make sure all of my state-based approaches separately work really well separately before i put them together. i was really proud of myself for being able to make things work after putting some good time in on my separate sparklies.
 
-i am feeling increasingly more and more like a programmer, especially after this assignment!
-here's a photo of my program's output for reference.
+here's a photo of all of the sparklies, sparkling on their merry way together! so cool.
 
-![ledcode](https://lylafbutler.github.io/assets/img/ledcode.png)
+![sparklies](https://lylafbutler.github.io/assets/img/sparklies.png)
