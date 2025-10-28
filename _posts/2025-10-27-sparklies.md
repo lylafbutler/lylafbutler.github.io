@@ -14,6 +14,12 @@ for this assignment, we combined the separate state-based programs we had writte
 
 a tip i'd have for myself attempting this assignment is to make sure all of my state-based approaches separately work really well separately before i put them together. i was really proud of myself for being able to make things work after putting some good time in on my separate sparklies.
 
-here's a photo of all of the sparklies, sparkling on their merry way together! so cool.
+here are some photos the sparklies, sparkling on their merry way together! so cool.
 
-![sparklies](https://lylafbutler.github.io/assets/img/sparklies.png)
+![one](https://lylafbutler.github.io/assets/img/simone.png)
+
+![two](https://lylafbutler.github.io/assets/img/simtwo.png)
+
+![three](https://lylafbutler.github.io/assets/img/simthree.png)
+
+![four](https://lylafbutler.github.io/assets/img/simfour.png)
