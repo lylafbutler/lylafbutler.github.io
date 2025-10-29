@@ -15,4 +15,4 @@ a tip i'd give to someone attempting this assignment for the first time is to ma
 
 here's a photo of the pressed button generating a random LED color!
 
-![randomcolor](https://lylafbutler.github.io/assets/img/randomcolor.png)
+![randomcolor](https://lylafbutler.github.io/assets/img/randcol.jpeg)
