@@ -17,3 +17,10 @@ a tip i'd have for myself attempting this assignment is to make sure all of my s
 here are some photos the sparklies, sparkling on their merry way together! so cool.
 
 ![sim1](https://lylafbutler.github.io/assets/img/sim1.jpg)
+
+![sim2](https://lylafbutler.github.io/assets/img/sim2.jpg)
+
+![sim3](https://lylafbutler.github.io/assets/img/sim3.jpg)
+
+![sim4](https://lylafbutler.github.io/assets/img/sim4.jpg)
+
