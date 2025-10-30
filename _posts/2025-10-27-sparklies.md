@@ -23,4 +23,3 @@ here are some photos the sparklies, sparkling on their merry way together! so co
 ![sim3](https://lylafbutler.github.io/assets/img/sim3.jpg)
 
 ![sim4](https://lylafbutler.github.io/assets/img/sim4.jpg)
-
