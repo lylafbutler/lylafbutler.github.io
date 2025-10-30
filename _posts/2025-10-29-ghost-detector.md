@@ -1,25 +1,19 @@
 ---
 layout: post
 title: ghost detector
-subtitle: all together now
+subtitle: get spooky!
 tags: [ghost, halloween, spooky, LEDs]
 comments: true
 mathjax: true
 author: Lyla Butler
 ---
 
-**hey...happy monday!**
+**it's spooky season...**
 
-for this assignment, we combined the separate state-based programs we had written to simulate the flashing of different kinds of fireflies. this resulted in a program that created all three flashing patterns at the same time!
+in this assignment, we used the light and temperature sensors that connected to the Lilypad Arduino to create a "ghost detector" which turned red LEDs on when it was dark and cold enough. This was also our first assignment that incorporated "analogRead", so that was a really exciting thing to explore.
 
-a tip i'd have for myself attempting this assignment is to make sure all of my state-based approaches separately work really well separately before i put them together. i was really proud of myself for being able to make things work after putting some good time in on my separate sparklies.
+the tip i'd have for my past self when completing this assignment is to make sure i always carefully go through my code to make sure there are no spelling errors before frustrating myself, trying to figure out what i did wrong. that would have saved me a lot of grief with this one--a small spelling error ended up making all the difference!
 
-here are some photos the sparklies, sparkling on their merry way together! so cool.
+here's a photo of my ghost detector. happy halloween!
 
-![sim1](https://lylafbutler.github.io/assets/img/sim1.jpg)
-
-![sim2](https://lylafbutler.github.io/assets/img/sim2.jpg)
-
-![sim3](https://lylafbutler.github.io/assets/img/sim3.jpg)
-
-![sim4](https://lylafbutler.github.io/assets/img/sim4.jpg)
+![ghostdetector](https://lylafbutler.github.io/assets/img/ghostdetector.jpg)
