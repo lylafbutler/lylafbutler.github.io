@@ -16,4 +16,4 @@ a tip i'd have for myself attempting this assignment is to make sure all of my s
 
 here are some photos the sparklies, sparkling on their merry way together! so cool.
 
-![simone](https://lylafbutler.github.io/assets/img/simone.png)
+![sim1](https://lylafbutler.github.io/assets/img/sim1.jpg)
