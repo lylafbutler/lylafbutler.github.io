@@ -16,4 +16,4 @@ the tip i'd have for my past self when completing this assignment is to make sur
 
 here's a photo of my ghost detector. happy halloween!
 
-![ghostdetector](https://lylafbutler.github.io/assets/img/ghostdetector.jpg)
+![ghost](https://lylafbutler.github.io/assets/img/ghost.jpg)
