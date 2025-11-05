@@ -16,4 +16,4 @@ the main tip i'd have for my past self on this assignment would be to separate t
 
 here's a photo of my arduino kit set-up. thanks for reading!
 
-![cantina](https://lylafbutler.github.io/assets/img/cantina.jpg)
+![morse](https://lylafbutler.github.io/assets/img/morse.jpg)
