@@ -12,4 +12,4 @@ author: Lyla Butler
 
 i hope you're getting excited about it! i know i am.
 
-![morse](https://lylafbutler.github.io/assets/img/eleven.jpg)
+![eleven](https://lylafbutler.github.io/assets/img/eleven.jpg)
