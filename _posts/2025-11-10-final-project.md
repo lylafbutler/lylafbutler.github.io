@@ -2,18 +2,14 @@
 layout: post
 title: final project proposal!
 subtitle: now i can stay safe at all times
-tags: [morse_code, buzzer, Lyla, SOS]
+tags: [final, stranger_things, doll, LEDs,  buzzer]
 comments: true
 mathjax: true
 author: Lyla Butler
 ---
 
-**time for some morse code!**
+**here's my pitch image for my final project!**
 
-for this assignment, we used the arduino buzzer element to write code that would play our name in morse code when the circuit is open, and "SOS" when the circuit is closed.
-this assignment was super rewarding when it finally worked! i am super fascinated with morse code, and it was really exciting to write a program that incorporated it.
-the main tip i'd have for my past self on this assignment would be to separate the program into logical chunks before i started to write my code. once i really understood what was going where, it made a lot of sense!
-
-here's a photo of my arduino kit set-up. thanks for reading!
+i hope you're getting excited about it! i know i am.
 
 ![morse](https://lylafbutler.github.io/assets/img/morse.jpg)
