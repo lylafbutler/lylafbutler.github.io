@@ -1,6 +1,6 @@
 ---
 layout: post
-title: morse code!
+title: final project proposal!
 subtitle: now i can stay safe at all times
 tags: [morse_code, buzzer, Lyla, SOS]
 comments: true
