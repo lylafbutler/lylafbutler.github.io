@@ -1,7 +1,7 @@
 ---
 layout: post
 title: final project proposal!
-subtitle: now i can stay safe at all times
+subtitle: upside down, baby!
 tags: [final, stranger_things, doll, LEDs,  buzzer]
 comments: true
 mathjax: true
