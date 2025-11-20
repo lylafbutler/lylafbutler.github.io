@@ -12,6 +12,6 @@ author: Lyla Butler
 
 here are some images of my paper prototype for my final project, the upside-down-o-meter!
 
-![front](https://lylafbutler.github.io/assets/img/paperfront.png)
+![front](https://lylafbutler.github.io/assets/img/paperfront.jpg)
 
 ![back](https://lylafbutler.github.io/assets/img/paperback.jpg)
