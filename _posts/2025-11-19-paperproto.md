@@ -10,7 +10,7 @@ author: Lyla Butler
 
 **here she is...**
 
-here are some images of my paper prototype for my final project, the upside-down-o-meter!
+here are some images of my paper prototype for my final project, the upside-down-o-meter! this doll will inform the user when the upside down is lurking by lighting up her eyes when it is dark, and playing the stranger things theme when it is cold.
 
 ![front](https://lylafbutler.github.io/assets/img/paperfront.jpg)
 
