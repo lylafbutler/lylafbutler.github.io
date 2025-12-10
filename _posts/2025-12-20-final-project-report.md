@@ -37,6 +37,8 @@ here she is when it is dark:
 and here she is when it is dark and cold (playing the stranger things theme song!):
 ![stage3](https://lylafbutler.github.io/assets/img/stage3.MOV)
 
+https://lylafbutler.github.io/assets/img/stage3.mov
+
 a few tips to my past self would be firstly to make sure my paper prototype is really truly solid. my original paper prototype was definitely not as detailed as it should have been, and if not for iris's recommendation of re-doing it, it would definitely have caused me a lot of grief!
 secondly, despite my new and improved paper prototype, i still had trouble flipping the doll inside out when i was done sewing due to some tiny passages i had created. my ti[ to my past self would be to make sure there is enough "flipping space" before i sew the doll and have to reopen a bunch of passages of sewing!
 third, things would have been a lot easier for my past self if i had attempted to test my song code out on its own before adding it to the rest of the code. it was my first time writing out the notes in code on my own for a song, and things would have been much easier if i had gotten that code really solid before i started adding it into other things.
