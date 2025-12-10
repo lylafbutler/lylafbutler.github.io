@@ -18,18 +18,18 @@ my motivation for this project was that i love the stranger things tv show, and 
 the materials i used for this project included 1 lilypad arduino, 1 etextiles lipo, 1 lilypad light sensor, 1 lilypad temperature sensor, 1 lilypad buzzer, 2 red external LEDs, conductive thread, stuffing, assorted colors of embroidery floss and felt, and finally, scissors and a sewing needle.
 
 here is the revised version of the paper prototype i made for my final project:
-![revised](https://lylafbutler.github.io/assets/img/revised.jpg)
-![revised1](https://lylafbutler.github.io/assets/img/revised1.jpg)
-![revised2](https://lylafbutler.github.io/assets/img/revised2.jpg)
-![revised3](https://lylafbutler.github.io/assets/img/revised3.jpg)
+![revised](https://lylafbutler.github.io/assets/img/revised.JPG)
+![revised1](https://lylafbutler.github.io/assets/img/revised1.JPG)
+![revised2](https://lylafbutler.github.io/assets/img/revised2.JPG)
+![revised3](https://lylafbutler.github.io/assets/img/revised3.JPG)
 
 and here is a photo of my working alligator prototype:
-![alliproto](https://lylafbutler.github.io/assets/img/alliproto.jpg)
+![alliproto](https://lylafbutler.github.io/assets/img/alliproto.jpeg)
 
 and here are the different states of my working doll!
 
 here she is when it is warm and light out:
-![stage1](https://lylafbutler.github.io/assets/img/stage1.jpg)
+![stage1](https://lylafbutler.github.io/assets/img/stage1.jpeg)
 
 here she is when it is dark:
 ![stage2](https://lylafbutler.github.io/assets/img/stage2.jpg)
